@@ -34,6 +34,7 @@ description: 综合游戏设计、游戏策划与制作技能，覆盖玩法原�
 | 剧情、角色、对白、任务、世界观、环境叙事 | [narrative.md](references/narrative.md) | systems.md、level.md |
 | 数值、伤害、概率、掉落、经济、成长、平衡 | [numerical.md](references/numerical.md) | systems.md、technical.md |
 | 原型、排期拆解、跨专业交付、评审、测试、迭代 | [production.md](references/production.md) | 对应专业模块 |
+| AI 代理游玩、自动化回归、平衡漂移监控、可测试性设计 | [agent-playtesting.md](references/agent-playtesting.md) | production.md、technical.md |
 | 需要完整文档、表格或报告 | [templates.md](references/templates.md) | 对应专业模块 |
 
 需要综合运用经典理论时读 foundations.md；理论只是观察镜头，不是固定答题公式。

@@ -17,6 +17,7 @@
 - 游戏美术、视觉方向与资产生产
 - 技术美术、材质、Shader、LOD 与资产管线
 - 原型、制作、跨专业评审与玩家测试
+- AI 代理游玩、自动化回归与可测试性设计
 - 各专业的可复用交付模板
 
 ## 目录
@@ -34,6 +35,7 @@ design-games/
 │   ├── art.md
 │   ├── technical-art.md
 │   ├── production.md
+│   ├── agent-playtesting.md
 │   └── templates.md
 └── scripts/
     ├── design_math.py
